@@ -63,7 +63,7 @@ export default function Home() {
               1-on-1 Personalized Islamic Studies
             </span>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold leading-tight mb-6">
-              Deepen Your <span className="text-accent-400">Understanding</span> of the Quran — One Surah at a Time
+              Deepen Your <span className="text-accent-400">Faith</span> of the Quran — One Surah at a Time
             </h1>
             <p className="text-lg text-indigo-100 leading-relaxed mb-8 max-w-lg">
               Structured Tafseer sessions with Farhat Beig — content creator, data analyst, and mentor. Learn the meaning, context, and wisdom of the Quran surah by surah.
