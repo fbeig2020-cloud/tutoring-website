@@ -93,7 +93,7 @@ export default function Home() {
                   'Surah-by-surah structured Tafseer',
                   'Detailed explanation of meaning & context',
                   'Flexible online sessions',
-                  '$30 per session — one Surah per session',
+                 'Available: Saturday & Sunday, 6PM – 10PM CST',
                 ].map(item => (
                   <li key={item} className="flex items-start gap-2">
                     <CheckCircle2 className="w-4 h-4 text-accent-400 mt-0.5 shrink-0" />
