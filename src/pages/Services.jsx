@@ -22,8 +22,8 @@ const sessionType = {
   title: '1-on-1 Tafseer Session',
   icon: Users,
   desc: 'A dedicated one-on-one session covering one complete surah with full Tafseer. Sessions are paced to you — no rushing, no skipping over depth.',
-  rate: '$30 per session',
-  format: 'One Surah per session',
+ 
+ 
 }
 
 const faqs = [
