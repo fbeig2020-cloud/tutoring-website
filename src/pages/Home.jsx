@@ -202,7 +202,7 @@ export default function Home() {
         <div className="max-w-3xl mx-auto px-4 text-center">
           <h2 className="text-3xl sm:text-4xl font-extrabold mb-4">Ready to Begin Your Tafseer Journey?</h2>
           <p className="text-indigo-100 text-lg mb-8 leading-relaxed">
-            Enroll today and start exploring the Quran — one surah, one session at a time. $30 per session.
+            Enroll today and start exploring the Quran — one surah, one session at a time
           </p>
           <div className="flex flex-wrap gap-4 justify-center">
             <Link to="/enroll" className="btn-white">
